@@ -1,0 +1,12 @@
+data/
+*.log
+node_modules/
+test-results/
+.runtime/
+.impeccable/
+.publish/
+.publish-*/
+.dist/
+.dist-*/
+.publish-v5*/
+backups/
