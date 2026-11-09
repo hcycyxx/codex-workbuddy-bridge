@@ -18,4 +18,4 @@
 
 ## 本地提交
 
-`e494f84` · `v5.0.0-ccswitch` · `Release B cc-switch aggregation v5.0.0`
+`8069ffc` · `v5.0.0-ccswitch` · `Add B release validation record`
