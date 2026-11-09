@@ -1,0 +1,9 @@
+data/
+*.log
+node_modules/
+test-results/
+.runtime/
+.impeccable/
+.publish/
+.publish-*/
+.dist/
