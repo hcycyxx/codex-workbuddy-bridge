@@ -18,4 +18,4 @@
 
 ## 本地提交
 
-`8069ffc` · `v5.0.0-ccswitch` · `Add B release validation record`
+本地 `main` 已完成版本提交；发布时以 GitHub 上实际生成的 tag 为准。
