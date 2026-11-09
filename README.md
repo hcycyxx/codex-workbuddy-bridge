@@ -1,6 +1,14 @@
 # codex桥接workbuddy
 
-把本人已登录的 WorkBuddy 账号接入 Codex / CC Switch，在一个本地窗口中管理账号、剩余积分、实际扣分和模型倍率。
+把本人已登录的 WorkBuddy 账号接入 Codex，在一个本地窗口中管理账号、剩余积分、实际扣分和模型倍率；管理页点一下即可切换国内 / 国际账号。
+
+## 选择版本
+
+- **A 版直连傻瓜包**：适合没有安装或不使用 CC Switch 的用户。首次一键写入 Codex 用户配置并重启 Codex 一次，以后换号不重启。分支 [`release/v5.0.0-direct`](../../tree/release/v5.0.0-direct)，标签与 Release 为 `v5.0.0-direct`。
+- **B 版聚合模式**：适合已经安装 CC Switch 且 Codex 处于聚合模式的用户。一键备份并修改 WB 供应商、自动重启 CC Switch；**直连和路由模式未测试**。分支 [`release/v5.0.0-ccswitch`](../../tree/release/v5.0.0-ccswitch)，标签与 Release 为 `v5.0.0-ccswitch`。
+- **v4.0.0**：旧版手动接入，保留原有 Release 和下载。
+
+每个版本的完整中文说明、源码、一键工具和验证记录都在对应分支中；下载入口见该版本的 Release。
 
 [![版本](https://img.shields.io/github/v/release/hcycyxx/codex-workbuddy-bridge)](https://github.com/hcycyxx/codex-workbuddy-bridge/releases/latest)
 [![系统](https://img.shields.io/badge/platform-Windows-214c40)](#运行条件)
