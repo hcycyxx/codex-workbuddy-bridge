@@ -1,0 +1,8 @@
+{
+  "name": "codex-workbuddy-bridge",
+  "version": "5.0.0-direct",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": { "start": "node src/server.js", "test": "node --test tests/*.test.js", "check": "node scripts/check.js", "setup": "node tools/setup-codex-direct.mjs" }
+}
