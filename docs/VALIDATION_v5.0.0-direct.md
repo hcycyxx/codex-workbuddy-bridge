@@ -17,4 +17,4 @@
 
 ## 本地提交
 
-`a563136` · `v5.0.0-direct` · `Add A release validation record`
+本地 `main` 已完成版本提交；发布时以 GitHub 上实际生成的 tag 为准。
