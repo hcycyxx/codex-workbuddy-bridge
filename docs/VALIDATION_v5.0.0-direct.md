@@ -17,4 +17,4 @@
 
 ## 本地提交
 
-`ca8a4e9` · `v5.0.0-direct` · `Release A direct v5.0.0`
+`a563136` · `v5.0.0-direct` · `Add A release validation record`
